@@ -1,6 +1,6 @@
 # Pasos para hacer el despliegue con github pages.
 
-1)compilar el proyecto:
+1) compilar el proyecto:
     npm run build
 
 2) Instalar gh-pages-npm
