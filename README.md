@@ -21,7 +21,7 @@ el nombre del repositorio '/REPO/'
 
 ![](src/imagenes/React5.PNG)
 
-6) Crear un archivo deploy.ssh en el proyecto y pegar el siguiente codigo:
+6) Crear un archivo deploy.ssh en la carpeta src y pegar el siguiente codigo:
 
 ```
 #!/usr/bin/env sh
